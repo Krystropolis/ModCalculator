@@ -1,0 +1,8 @@
+﻿Sum
+Subtract
+Product
+Power
+Log
+Compound1
+Compound2
+Initialize
